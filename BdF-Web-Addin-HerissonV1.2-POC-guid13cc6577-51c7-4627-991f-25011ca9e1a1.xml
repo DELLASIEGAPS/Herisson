@@ -10,7 +10,7 @@
 
   <DisplayName DefaultValue="Herisson_V1.2"/>
   <Description DefaultValue="Signalement de mails"/>
-  <IconUrl DefaultValue="hhttps://dellasiegaps.github.io/Herisson/assets/icon-64.png"/>
+  <IconUrl DefaultValue=""/>
   <HighResolutionIconUrl DefaultValue="https://dellasiegaps.github.io/Herisson/assets/icon-128.png"/>
 
   <AppDomains>
