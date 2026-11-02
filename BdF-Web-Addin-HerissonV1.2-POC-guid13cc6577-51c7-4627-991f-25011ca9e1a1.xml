@@ -10,11 +10,11 @@
 
   <DisplayName DefaultValue="Herisson_V1.2"/>
   <Description DefaultValue="Signalement de mails"/>
-  <IconUrl DefaultValue="https://dellasiegaexternal2.github.io/Herisson/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://dellasiegaexternal2.github.io/Herisson/assets/icon-128.png"/>
+  <IconUrl DefaultValue="hhttps://dellasiegaps.github.io/Herisson/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://dellasiegaps.github.io/Herisson/assets/icon-128.png"/>
 
   <AppDomains>
-    <AppDomain>https://dellasiegaexternal2.github.io</AppDomain>
+    <AppDomain>hhttps://dellasiegaps.github.io</AppDomain>
   </AppDomains>
 
   <Hosts>
@@ -30,7 +30,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://dellasiegaexternal2.github.io/Herisson/src/confirm.html"/>
+        <SourceLocation DefaultValue="https://dellasiegaps.github.io/Herisson/src/confirm.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -81,12 +81,12 @@
 
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://dellasiegaexternal2.github.io/Herisson/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://dellasiegaexternal2.github.io/Herisson/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://dellasiegaexternal2.github.io/Herisson/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://dellasiegaps.github.io/Herisson/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://dellasiegaps.github.io/Herisson/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://dellasiegaps.github.io/Herisson/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://dellasiegaexternal2.github.io/Herisson/src/commands/commands.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://dellasiegaps.github.io/Herisson/src/commands/commands.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="Herisson"/>
