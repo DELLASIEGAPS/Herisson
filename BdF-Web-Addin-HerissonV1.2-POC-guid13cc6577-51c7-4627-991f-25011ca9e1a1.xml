@@ -4,7 +4,7 @@
            xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
            xsi:type="MailApp">
   <Id>13cc6577-51c7-4627-991f-25011ca9e1a1</Id>
-  <Version>1.0.0.1</Version>
+  <Version>1.0.0.2</Version>
   <ProviderName>Banque de France</ProviderName>
   <DefaultLocale>fr-FR</DefaultLocale>
 
